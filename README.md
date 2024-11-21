@@ -12,4 +12,4 @@
 
 💙 Join the Channel to see more Videos like this. [Coding Programming](https://www.youtube.com/@codingprogramming786)
 
-![preview img](/image.png)
+![preview img](/screenShot.png)
